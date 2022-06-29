@@ -4,7 +4,7 @@ An interactive game of blackjack, with the GUI created using Python's tkinter pa
 
 ## Description
 
-This project recreates the popular game of blackjack, using tkinter to create the user interface. The card images are loaded into memory from the [cards directory](https://github.com/mhoward91/blackjack-tkinter/tree/master/cards), and the rest of the GUI is constructed using various tkinter widgets. Elements of the game (such as dealing, scoring, shuffling etc. are arranged as functions.
+This project recreates the popular game of blackjack, using tkinter to create the user interface. The card images are loaded into memory from the [cards directory](https://github.com/mhoward91/blackjack-tkinter/tree/master/cards), and the rest of the GUI is constructed using various tkinter widgets. Elements of the game (such as dealing, scoring, shuffling etc.) are arranged as functions.
 
 The rules are the same as standard blackjack, where a hand 'busts' once it exceeds 21. Additionally:
 - The player deals to their hand by selecting the _player_ button
