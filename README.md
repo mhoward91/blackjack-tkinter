@@ -29,12 +29,7 @@ To clone and run this app on your machine, you'll need [Git](https://git-scm.com
 $ git clone https://github.com/mhoward91/blackjack-tkinter.git
 ```
 
-2. Change directory to this repository
-```
-$ cd blackjack-tkinter
-```
-
-3. Run the program
+2. Navigate to the relevant directory and run the program
 ```
 $ python blackjack.py
 ```
